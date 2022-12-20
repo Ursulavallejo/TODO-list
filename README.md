@@ -10,7 +10,8 @@ https://user-images.githubusercontent.com/89070768/207939206-5d5d975a-8e34-4e0a-
 
 ###  Detailed information on the process of the project below:
 
-#CONTENT:
+
+# CONTENT:
 
 
 - [1. General Projektplan](#1-general-projektplan-)
