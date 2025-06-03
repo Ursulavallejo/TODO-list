@@ -30,6 +30,35 @@ https://user-images.githubusercontent.com/89070768/207939206-5d5d975a-8e34-4e0a-
 - **Chai** for assertions
 - **Chai-HTTP** for HTTP integration testing
 
+---
+
+### General view:
+
+<img
+  src="imgDokumentation/mainPageImage.png"
+  alt="main-page-image"
+  width="400"
+/>
+
+<img
+  src="./imgDokumentation/contactPageImage.png"
+  alt="contact-page-image"
+  width="00"
+/>
+<img
+  src="imgDokumentation/LoginPageImage.png"
+  alt="login-page-image"
+  width="400"
+/>
+
+<img
+  src="imgDokumentation/layoutTodoView.png"
+  alt="todo-page-image"
+  width="400"
+/>
+
+---
+
 ### 🚀 How to Run the Project Locally
 
 1. **Clone or download** the project folder
